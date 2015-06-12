@@ -1,0 +1,22 @@
+{
+	"name": "lode/test",
+	"type": "library",
+	"description": "Testing packagist",
+	"keywords": ["test"],
+	"homepage": "https://github.com/lode/test",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Lode Claassen",
+			"email": "lode@alsvanzelf.nl",
+			"homepage": "http://www.lodeclaassen.nl/"
+		}
+	],
+	"require": {
+	},
+	"autoload": {
+		"psr-4": {
+			"lode\\test\\": ""
+		}
+	}
+}
